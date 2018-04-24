@@ -1,5 +1,7 @@
 # vue_chartjs
 
+URL is https://goroya.github.io/vue_chartjs_realtime/
+
 > A Vue.js project
 
 ## Build Setup
